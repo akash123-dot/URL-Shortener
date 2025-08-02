@@ -10,7 +10,6 @@ venv/
 .env/
 *.env
 
-# Django stuff
 db.sqlite3
 media/
 staticfiles/
