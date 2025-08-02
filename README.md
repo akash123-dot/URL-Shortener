@@ -11,7 +11,7 @@ This API allows users to **register**, **login**, **generate tokens**, **shorten
 - **Redirect short URL → original URL**
 - URL **access tracking**
 - Built using **Flask**, **SQLAlchemy**, **Flask-Migrate**, and **JWT**
-- **Blueprints** for clean modular structure
+
 
 ---
 
